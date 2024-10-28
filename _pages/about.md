@@ -22,4 +22,4 @@ For more info
 
 For more info
 ------
-More info about publications can be found in [DBLP]([https://academicpages.github.io/markdown/](https://dblp.org/pid/163/0767.html)). T
+More info about publications can be found in [DBLP](https://dblp.org/pid/163/0767.html). 
