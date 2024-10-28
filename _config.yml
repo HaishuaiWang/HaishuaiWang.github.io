@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Haishuai Wang"
   pronouns         : # example: "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "ZJU100 Young Professor and PhD Supervisor"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
-  uri              : # URL
+  # uri              : # URL
   email            : "haishuai.wang@zju.edu.cn" 
 
   # Academic websites
