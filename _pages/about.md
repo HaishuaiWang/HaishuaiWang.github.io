@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Haishuai Wang is a ZJU100 Young Professor with the College of Computer Science ([QS Rank: 29](https://www.topuniversities.com/university-subject-rankings/computer-science-information-systems?region=Asia&countries=cn)) at Zhejiang University ([QS ranking 47](https://www.topuniversities.com/universities/zhejiang-university#p2-rankings), China. 
+Haishuai Wang is a ZJU100 Young Professor with the College of Computer Science ([QS Rank: 29](https://www.topuniversities.com/university-subject-rankings/computer-science-information-systems?region=Asia&countries=cn)) at Zhejiang University ([QS ranking 47](https://www.topuniversities.com/universities/zhejiang-university#p2-rankings), China. Before joining ZJU in 2022, he got tenure (Associate Professor) with the Department of Computer Science at Purdue University Northwest, USA. Prior to that, he was a faculty at Harvard Medical School and Fairfield University, USA. He received  Ph.D. from Australian Artificial Intelligence Institute, University of Technology Sydney, and joint Ph.D. from Washington University in St. Louis (joint Ph.D.), USA. He did postdoc training from the Department of Computer Science at Washington University in St. Louis and Department of Biomedical Informatics at Harvard University.
 
 A data-driven personal website
 ======
