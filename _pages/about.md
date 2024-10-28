@@ -14,6 +14,8 @@ His research focuses on time series/graph data mining, multimodal biomedical lar
 
 His research is supported by U.S. National Science Foundation, National Natural Science Foundation of China, Google, Amazon, Alibaba, etc. The project of Autism digital diagnosis that he served as PI was selected as the only nomination by Harvard Medical School to Charles H. Hood Foundation in 2018. His research has been successfully applied to real clinical decision support system, such as autism early screening, kidney function estimation, depression prediction, cerebral palsy diagnosis for infants, liver lesion segmentation, readmission prediction, epilepsy monitoring, and so on. A portion of his research has been successfully deployed in various renowned hospitals and corporations, yielding substantial economic and societal advantages.
 
+Industry experience: IBM, Intel, Hitachi, Alibaba.
+
 Opportunities
 ------
 · Long-time Recruitment (PhD): I am always looking for self-motivated PhD. Please see this page for recruiting information, and check this [page](http://eagle.zju.edu.cn/join/enrollment/) for more information.
