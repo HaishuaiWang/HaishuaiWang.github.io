@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Haishuai Wang is a ZJU100 Young Professor with the College of Computer Science at Zhejiang University, China.
+Haishuai Wang is a ZJU100 Young Professor with the College of Computer Science (https://www.topuniversities.com/university-subject-rankings/computer-science-information-systems?region=Asia&countries=cn) at Zhejiang University (https://www.topuniversities.com/universities/zhejiang-university#p2-rankings), China. 
 
 A data-driven personal website
 ======
