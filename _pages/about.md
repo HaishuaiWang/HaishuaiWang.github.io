@@ -12,7 +12,7 @@ Haishuai Wang is a ZJU100 Young Professor with College of Computer Science ([QS 
 
 His research focuses on time series/graph data mining, multimodal biomedical large models, medical artificial intelligence, and deep learning. His research has been published more than 100 papers in top conference and journals, including Nature series, Cell series, NeurIPS, KDD, AAAI, ICCV, and TKDE. He serves as Editorial Board (e.g., JAIS, JHMI, JBST), Program Committee (e.g., IJCAI, KDD, AAAI, WWW), Workshop Organizatino Committee (e.g., WWW, AAAI, BIBM), Guest/Associate Editor (e.g., IEICE TOIS, Biology, EURASIP JWCN), Reviewer (e.g., Nature series, Cell press, TPAMI, TNNLS).
 
-His research is supported by U.S. National Science Foundation, National Natural Science Foundation of China, Google, Amazon, Alibaba, etc.
+His research is supported by U.S. National Science Foundation, National Natural Science Foundation of China, Google, Amazon, Alibaba, etc. The project of Autism digital diagnosis that he served as PI was selected as the only nomination by Harvard Medical School to Charles H. Hood Foundation in 2018. 
 
 For more info
 ------
