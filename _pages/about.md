@@ -16,12 +16,10 @@ His research is supported by U.S. National Science Foundation, National Natural 
 
 For more info
 ------
-\begin{itemize}
-  \item Long-time Recruitment (PhD): I am always looking for self-motivated PhD. Please see this page for recruiting information, and check this [page](http://eagle.zju.edu.cn/join/enrollment/) for more information.
-  \item Long-time Recruitment (Postdoc): Meanwhile, I am happy to host postdoc trainees (paied). Check this [page](http://eagle.zju.edu.cn/join/enrollment/) for more information.  Please send your CV to my email (haishuai.wang@zju.edu.cn).
-  \item Project-based Recruitment: Please send your CV to my email (haishuai.wang@zju.edu.cn) for more information.
-\end{itemize}
+· Long-time Recruitment (PhD): I am always looking for self-motivated PhD. Please see this page for recruiting information, and check this [page](http://eagle.zju.edu.cn/join/enrollment/) for more information.
+· Long-time Recruitment (Postdoc): Meanwhile, I am happy to host postdoc trainees (paied). Check this [page](http://eagle.zju.edu.cn/join/enrollment/) for more information.  Please send your CV to my email (haishuai.wang@zju.edu.cn).
+· Project-based Recruitment: Please send your CV to my email (haishuai.wang@zju.edu.cn) for more information.
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about publications can be found in [DBLP]([https://academicpages.github.io/markdown/](https://dblp.org/pid/163/0767.html)). T
