@@ -17,7 +17,9 @@ His research is supported by U.S. National Science Foundation, National Natural 
 For more info
 ------
 · Long-time Recruitment (PhD): I am always looking for self-motivated PhD. Please see this page for recruiting information, and check this [page](http://eagle.zju.edu.cn/join/enrollment/) for more information.
+
 · Long-time Recruitment (Postdoc): Meanwhile, I am happy to host postdoc trainees (paied). Check this [page](http://eagle.zju.edu.cn/join/enrollment/) for more information.  Please send your CV to my email (haishuai.wang@zju.edu.cn).
+
 · Project-based Recruitment: Please send your CV to my email (haishuai.wang@zju.edu.cn) for more information.
 
 For more info
